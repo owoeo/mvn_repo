@@ -2,12 +2,12 @@
 <metadata>
   <groupId>com.pmpd.component</groupId>
   <artifactId>kernel-component</artifactId>
+  <version>1.0.5-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>1.0.3-SNAPSHOT</version>
-      <version>1.0.4-SNAPSHOT</version>
-      <version>1.0.5-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20180715.104706</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20180715104706</lastUpdated>
   </versioning>
 </metadata>
