@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.pmpd.tools.build</groupId>
+  <artifactId>pmpd-processor-lib</artifactId>
+  <version>1.0.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180715.093647</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20180715093647</lastUpdated>
+  </versioning>
+</metadata>
