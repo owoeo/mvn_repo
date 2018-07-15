@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.pmpd.component</groupId>
+  <artifactId>kernel-component</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.3-SNAPSHOT</version>
+      <version>1.0.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180715084600</lastUpdated>
+  </versioning>
+</metadata>
