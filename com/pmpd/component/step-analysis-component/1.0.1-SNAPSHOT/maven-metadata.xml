@@ -2,11 +2,12 @@
 <metadata>
   <groupId>com.pmpd.component</groupId>
   <artifactId>step-analysis-component</artifactId>
+  <version>1.0.1-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>1.0.0-SNAPSHOT</version>
-      <version>1.0.1-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20180716.082810</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20180716082810</lastUpdated>
   </versioning>
 </metadata>
