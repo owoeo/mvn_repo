@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.pmpd.component</groupId>
+  <artifactId>ble-util-component</artifactId>
+  <version>1.1.8-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180822.074847</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20180822074847</lastUpdated>
+  </versioning>
+</metadata>
