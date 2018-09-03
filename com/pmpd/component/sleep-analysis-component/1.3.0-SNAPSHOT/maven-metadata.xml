@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.pmpd.component</groupId>
+  <artifactId>sleep-analysis-component</artifactId>
+  <version>1.3.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180903.065019</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20180903065019</lastUpdated>
+  </versioning>
+</metadata>
