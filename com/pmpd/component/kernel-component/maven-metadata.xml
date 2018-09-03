@@ -30,7 +30,8 @@
       <version>1.2.9-SNAPSHOT</version>
       <version>1.3.0-SNAPSHOT</version>
       <version>1.3.1-SNAPSHOT</version>
+      <version>1.3.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180903065352</lastUpdated>
+    <lastUpdated>20180903072101</lastUpdated>
   </versioning>
 </metadata>
