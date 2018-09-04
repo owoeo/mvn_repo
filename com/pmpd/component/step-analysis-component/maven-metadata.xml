@@ -3,6 +3,7 @@
   <groupId>com.pmpd.component</groupId>
   <artifactId>step-analysis-component</artifactId>
   <versioning>
+    <release>1.0.1</release>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
       <version>1.0.1-SNAPSHOT</version>
@@ -32,7 +33,8 @@
       <version>1.3.1-SNAPSHOT</version>
       <version>1.3.2-SNAPSHOT</version>
       <version>1.3.3-SNAPSHOT</version>
+      <version>1.0.1</version>
     </versions>
-    <lastUpdated>20180904075905</lastUpdated>
+    <lastUpdated>20180904115233</lastUpdated>
   </versioning>
 </metadata>
