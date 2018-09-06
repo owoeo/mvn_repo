@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.pmpd.component</groupId>
+  <artifactId>sport-model-component</artifactId>
+  <version>1.3.7-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180906.035059</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20180906035059</lastUpdated>
+  </versioning>
+</metadata>
