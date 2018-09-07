@@ -3,7 +3,7 @@
   <groupId>com.pmpd.component</groupId>
   <artifactId>heart-analysis-component</artifactId>
   <versioning>
-    <release>1.0.3</release>
+    <release>1.0.4</release>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
       <version>1.0.2-SNAPSHOT</version>
@@ -42,7 +42,8 @@
       <version>1.4.0-SNAPSHOT</version>
       <version>1.4.1-SNAPSHOT</version>
       <version>1.4.2-SNAPSHOT</version>
+      <version>1.0.4</version>
     </versions>
-    <lastUpdated>20180907033431</lastUpdated>
+    <lastUpdated>20180907034505</lastUpdated>
   </versioning>
 </metadata>
