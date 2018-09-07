@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.pmpd.component</groupId>
+  <artifactId>heart-analysis-component</artifactId>
+  <version>1.4.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180907.033431</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20180907033431</lastUpdated>
+  </versioning>
+</metadata>
