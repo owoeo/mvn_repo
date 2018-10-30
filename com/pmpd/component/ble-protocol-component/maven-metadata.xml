@@ -3,7 +3,7 @@
   <groupId>com.pmpd.component</groupId>
   <artifactId>ble-protocol-component</artifactId>
   <versioning>
-    <release>1.0.6</release>
+    <release>1.0.7</release>
     <versions>
       <version>1.0.5-SNAPSHOT</version>
       <version>1.0.6-SNAPSHOT</version>
@@ -47,7 +47,8 @@
       <version>1.0.4</version>
       <version>1.0.5</version>
       <version>1.0.6</version>
+      <version>1.0.7</version>
     </versions>
-    <lastUpdated>20181026123847</lastUpdated>
+    <lastUpdated>20181030080247</lastUpdated>
   </versioning>
 </metadata>
