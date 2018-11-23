@@ -3,7 +3,7 @@
   <groupId>com.pmpd.component</groupId>
   <artifactId>blood-pressure-model-component</artifactId>
   <versioning>
-    <release>1.0.10</release>
+    <release>1.0.11</release>
     <versions>
       <version>1.0.5</version>
       <version>1.0.6</version>
@@ -11,7 +11,8 @@
       <version>1.0.8</version>
       <version>1.0.9</version>
       <version>1.0.10</version>
+      <version>1.0.11</version>
     </versions>
-    <lastUpdated>20181103081648</lastUpdated>
+    <lastUpdated>20181123104731</lastUpdated>
   </versioning>
 </metadata>
