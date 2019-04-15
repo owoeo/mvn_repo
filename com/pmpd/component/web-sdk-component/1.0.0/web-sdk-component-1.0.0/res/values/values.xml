@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_device_notify_app_ali_pay">Alipay</string>
+    <string name="service_device_notify_app_dingding">rimet</string>
+    <string name="service_device_notify_app_email">Email</string>
+    <string name="service_device_notify_app_facebook">Facebook</string>
+    <string name="service_device_notify_app_head_lines">Today\'s headlines</string>
+    <string name="service_device_notify_app_instagram">Instagram</string>
+    <string name="service_device_notify_app_jd">JingDong</string>
+    <string name="service_device_notify_app_line">Line</string>
+    <string name="service_device_notify_app_qq">QQ</string>
+    <string name="service_device_notify_app_skype">Skype</string>
+    <string name="service_device_notify_app_taobao">TaoBao</string>
+    <string name="service_device_notify_app_tim">Tim</string>
+    <string name="service_device_notify_app_twitter">Twitter</string>
+    <string name="service_device_notify_app_wechat">WeChat</string>
+    <string name="service_device_notify_app_weibo">Weibo</string>
+    <string name="service_device_notify_app_what_app">Whatsapp</string>
+    <string name="service_incoming_phone">incoming</string>
+    <string name="unknown">unknown</string>
+</resources>

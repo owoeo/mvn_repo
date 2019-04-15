@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_device_notify_app_ali_pay">支付宝</string>
+    <string name="service_device_notify_app_dingding">钉钉</string>
+    <string name="service_device_notify_app_email">邮箱</string>
+    <string name="service_device_notify_app_facebook">Facebook</string>
+    <string name="service_device_notify_app_head_lines">今日头条</string>
+    <string name="service_device_notify_app_instagram">Instagram</string>
+    <string name="service_device_notify_app_jd">京东</string>
+    <string name="service_device_notify_app_line">Line</string>
+    <string name="service_device_notify_app_qq">QQ</string>
+    <string name="service_device_notify_app_skype">Skype</string>
+    <string name="service_device_notify_app_taobao">淘宝</string>
+    <string name="service_device_notify_app_tim">Tim</string>
+    <string name="service_device_notify_app_twitter">Twitter</string>
+    <string name="service_device_notify_app_wechat">微信</string>
+    <string name="service_device_notify_app_weibo">微博</string>
+    <string name="service_device_notify_app_what_app">Whatsapp</string>
+    <string name="service_incoming_phone">呼入电话</string>
+    <string name="unknown">未知</string>
+</resources>
